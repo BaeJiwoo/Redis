@@ -13,6 +13,12 @@
 # 라이브러리 바이너리 및 외부 소스 제외
 Libs/
 
+# 환경 변수 파일 제외
+.env
+
+# (추가 팁) 만약 .env.local 같은 파일을 더 만든다면 아래처럼
+.env*
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
