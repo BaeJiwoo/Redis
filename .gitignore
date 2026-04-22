@@ -10,6 +10,9 @@
 *.userosscache
 *.sln.docstates
 
+# 라이브러리 바이너리 및 외부 소스 제외
+Libs/
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
